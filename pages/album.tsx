@@ -18,15 +18,27 @@ const Album = () => {
   const photos = [
     {
       id: 1,
-      src: "https://kappa.lol/qq8cy",
-      caption: "Having fun with my family 🚙",
+      src: "https://kappa.lol/JO31x",
+      caption: "Oh really? 🤭",
       date: "2024-12-25"
     },
     {
       id: 2,
-      src: "https://kappa.lol/YK64L",
+      src: "https://kappa.lol/dcvm7",
       caption: "A bright day with smiles 😊",
-      date: "2024-12-11"
+      date: "2025-01-16"
+    },
+    {
+      id: 3,
+      src: "https://kappa.lol/O77FO",
+      caption: "Smiles again 😊",
+      date: "2025-01-16"
+    },
+    {
+      id: 4,
+      src: "https://kappa.lol/2gzpH",
+      caption: "Happiness",
+      date: "2025-01-17"
     }
   ];
 
