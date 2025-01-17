@@ -73,7 +73,7 @@ yarn start
 - **Tailwind CSS**: Utility-first CSS framework
 
 ## Example Website
-You can see the live example of this documentation at [www.meea.us.kg](https://www.meea.us.kg)
+You can see the live example of this documentation at [ctrmeea.vercel.app](https://ctrmeea.vercel.app/)
 
 ## Known Issues
 
