@@ -1,7 +1,20 @@
 {
-  "name": "portfolio",
+  "name": "simple-portfolio-website-nextjs",
   "version": "0.1.0",
   "private": true,
+  "description": "A simple portfolio website built with Next.js, React, and TypeScript.",
+  "keywords": [
+    "nextjs",
+    "portfolio",
+    "react",
+    "typescript",
+    "web development"
+  ],
+  "author": "Riski Yanda",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BotzIky/simple-portfolio-website-Next.js-.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
